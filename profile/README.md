@@ -43,6 +43,7 @@ Consolidarse como referente latinoamericano en investigación, innovación metod
 ## 🔬 Líneas de Investigación
 
 ```mermaid
+%%{init: {'theme': 'neutral'}}%%
 mindmap
   root((LAD_UC))
     Teledetección
@@ -160,16 +161,12 @@ Las contribuciones a los repositorios son bienvenidas. Para contribuir:
 
 ## 📬 Contacto
 
-<div align="center">
-
 **Escuela de Antropología**  
 Pontificia Universidad Católica de Chile  
 Campus San Joaquín, Santiago, Chile
 
 [![Email](https://img.shields.io/badge/Email-antropologia@uc.cl-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antropologia@uc.cl)
 [![Web](https://img.shields.io/badge/Web-antropologia.uc.cl-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://antropologia.uc.cl)
-
-</div>
 
 ---
 
@@ -179,13 +176,9 @@ Los repositorios de LAD_UC utilizan licencias de código abierto. Consultar cada
 
 ---
 
-<div align="center">
-
 **LAD_UC** · Laboratorio de Arqueología Digital  
 Pontificia Universidad Católica de Chile
 
 *Arqueología Digital desde Chile para el mundo* 🌎
 
 [![GitHub Org](https://img.shields.io/badge/GitHub-Laboratorio--de--Arqueologia--Digital--UC-181717?style=flat-square&logo=github)](https://github.com/Laboratorio-de-Arqueologia-Digital-UC)
-
-</div>
